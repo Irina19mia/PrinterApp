@@ -25,7 +25,7 @@ public class MessagePrinter implements Printer {
         return str == null ||str.isBlank();
     }
 
-    static class Message {
+    public static class Message {
         private String text;
         private String sender;
 
