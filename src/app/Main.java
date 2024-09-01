@@ -1,5 +1,8 @@
 package app;
 
+import app.printer.MessagePrinter;
+import app.printer.Printer;
+
 public class Main {
 
     public static void main(String[] args) {
